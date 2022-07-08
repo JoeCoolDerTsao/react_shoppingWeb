@@ -1,0 +1,6 @@
+jsconfig.json 裡面不能註解，寫在這
+"exclude": ["node_modules"]這一行為了避免報錯，參考：https://stackoverflow.com/questions/62739396/vscode-jsconfig-json-error-node-modules-agent-base-dist-src-index-not-found
+
+
+
+環境變量配置：https://create-react-app.dev/docs/adding-custom-environment-variables/
